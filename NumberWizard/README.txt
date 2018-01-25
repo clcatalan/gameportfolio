@@ -7,7 +7,7 @@ I intend to add more features to all my games (responsiveness, more player/enemy
 score dashboard, etc.) once I have completed the course. (Expected completion: 2/18/2018)
 
 *** If you intend to run the code, please download:
-	<Game Name>.unity <-- Just double click this file with the 2 files below in the same directory and it should work
+	<Game Name>.exe <-- Just double click this file with the 2 files below in the same directory and it should work
 	UnityPlayer.dll
 	<Game Name>_Data folder
 
