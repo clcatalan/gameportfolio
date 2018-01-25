@@ -9,14 +9,15 @@ I just completed the minimum requirements for the game as described in the Udemy
 I intend to add more features to all my games (responsiveness, more player/enemy sprites, power ups,
 score dashboard, etc.) once I have completed the course. (Expected completion: 2/18/2018)
 
-  -NumberWizard (2D)
-  -BlockBreaker (2D)
-  -WarInTheStars (2D)
+  NumberWizard (2D), BlockBreaker (2D), WarInTheStars (2D)
+  
+  
   
 *JAVA GAMES
-  -LightsOut
-  -TicTacToe
+  
+  LightsOut, TicTacToe
+  
   
 *JAVASCRIPT GAMES
-  -spaceInvaders
-  -NChancellors
+  
+  spaceInvaders, NChancellors
